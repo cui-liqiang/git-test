@@ -12,4 +12,9 @@ public class AppTest {
         assertTrue(false);
     }
 
+    @Test
+    public void myTest(){
+        assertEquals("abc","edc");
+    }
+
 }
