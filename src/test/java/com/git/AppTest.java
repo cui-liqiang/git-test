@@ -15,7 +15,7 @@ public class AppTest {
     @Test
     public void myTest(){
         assertEquals("123","123");
-
+        assertEquals("abc","abc");
     }
 
 }
